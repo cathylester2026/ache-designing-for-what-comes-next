@@ -1,0 +1,14 @@
+CHANGE ONLY: src/App.jsx
+
+Replace the existing src/App.jsx with the supplied App.jsx.
+
+No changes are required to:
+- src/styles.css
+- package.json
+- public/images
+- .github/workflows/deploy.yml
+
+NEW VERDICT RULES
+- BENDS: at least one Commit Now / Durable Foundation decision plus at least two different adaptive protections: Future Capacity, Replaceability, or Optionality.
+- STRAINS: no hard lock, but Durable Foundation is missing or fewer than two adaptive protections are present.
+- BREAKS: at least one Commit Now / Current Solution decision embeds a short-life solution as a long-life building dependency.
